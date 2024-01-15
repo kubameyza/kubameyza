@@ -5,7 +5,7 @@
 - :oncoming_automobile: [carlog](https://github.com/kubameyza/carlog) - car detailing business site
 
 ### My projects:
-:desktop_computer: [Freex](https://freex-5f6e8.web.app) - web app for freelancer looking for a job in UI/UX industry - https://github.com/infoshareacademy/jfdzr11-team-pixelpilots
+- :desktop_computer: [Freex](https://freex-5f6e8.web.app) - web app for freelancer looking for a job in UI/UX industry - https://github.com/infoshareacademy/jfdzr11-team-pixelpilots
 
 ### Tech stack:
 [![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,firebase,git)](https://skillicons.dev)
