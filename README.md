@@ -13,6 +13,9 @@
 ### Currently learning:
 [![My Skills](https://skillicons.dev/icons?i=typescript,jest)](https://skillicons.dev)
 
+### Reach me on:
+- [LinkedIn](https://www.linkedin.com/in/jakub-meyza)
+
 <!--
 **kubameyza/kubameyza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
